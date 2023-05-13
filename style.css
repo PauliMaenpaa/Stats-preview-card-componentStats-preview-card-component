@@ -72,7 +72,7 @@ img {
   animation: fadeInFromNone 2s ease-in;
 }
 
-@-webkit-keyframes fadeInFromNone {
+@keyframes fadeInFromNone {
   0% {
       display: none;
       opacity: 0;
